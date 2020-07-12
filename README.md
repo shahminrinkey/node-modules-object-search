@@ -1,4 +1,4 @@
-# object-search
+# object-search-js
 
 Simple javascript object search module to make it possible searching an object in different ways using only one function which comes with all possible types of results!
 
