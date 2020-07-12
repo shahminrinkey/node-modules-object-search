@@ -1,0 +1,20 @@
+{
+  "name": "object-search",
+  "version": "1.0.0",
+  "description": "Simple javascript object search module to make it possible search an object in different ways which comes with all possible types of results!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "object",
+    "search",
+    "key",
+    "value",
+    "index",
+    "pair",
+    "query"
+  ],
+  "author": "Shahmin Rahman Rinkey",
+  "license": "MIT"
+}
