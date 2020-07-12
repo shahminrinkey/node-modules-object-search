@@ -4,7 +4,7 @@ Simple javascript object search module to make it possible searching an object i
 
 ## Installation
 
-npm i object-search
+npm i object-search-js
 
 ## Note
 
