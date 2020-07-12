@@ -21,7 +21,7 @@ objectSearch() function expects four parameters:
 ## Usage
 
 ```javascript
-const objectSearch = require('object-search');
+const objectSearch = require('object-search-js');
 let result;
 
 result = objectSearch.objectSearch({'foo1': 'bar1', 'foo2':'bar2'}, 'bar1', 'value');

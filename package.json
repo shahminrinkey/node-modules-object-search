@@ -1,6 +1,6 @@
 {
   "name": "object-search-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple javascript object search module to make it possible search an object in different ways which comes with all possible types of results!",
   "main": "index.js",
   "scripts": {
